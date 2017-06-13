@@ -1,9 +1,7 @@
 ## JAI XIONG
 ### PORTFOLIO
 
-title: Welcome to my page!
-description: Bookmark this!2
-
+## University of Wisconsin - Milwaukee Projects
 
 ## Welcome to GitHub Pages
 
